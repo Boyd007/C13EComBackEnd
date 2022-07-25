@@ -13,6 +13,7 @@ The above criteria is met when the user is able to correctly view, add and modif
 
 # Sample 
 
+<img width="1872" alt="image" src="https://user-images.githubusercontent.com/105176171/180876346-891f66db-c1f2-4b12-bcf8-d19b15a892fc.png">
 
 
 # Technologies
